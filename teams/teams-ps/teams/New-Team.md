@@ -179,7 +179,7 @@ Accept wildcard characters: False
 ## NOTES
 
 ## RELATED LINKS
-
 [Get-Team](Get-Team.md)
+
 
 [Set-Team](Set-Team.md)
